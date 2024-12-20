@@ -1,5 +1,5 @@
 {
- "name": "App",
+ "name": "FishAlbum",
  "display":"standalone",
  "start_url":"../FishAlbum/",
  "background_color":"black",
